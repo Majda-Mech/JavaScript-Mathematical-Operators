@@ -18,3 +18,4 @@ Als je wisselt van bestand moet je nodemon eerst stoppen (ctrl + c voor zowel Wi
 
 `nodemon mathematical-operators.js`# JavaScript-Mathematical-Operators
 # JavaScript-Mathematical-Operators
+# JavaScript-Mathematical-Operators
